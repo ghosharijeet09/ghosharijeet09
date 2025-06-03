@@ -37,8 +37,10 @@ Welcome to my GitHub! 🚀 I'm a **DevOps Engineer** with **4+ years of experien
 4. Docker Essentials: A Developer Introduction
 5. Containers & Kubernetes Essentials
    
-🌟 **Scalable Deployments**: Architected and deployed scalable Kubernetes clusters for microservices 
+🌟 **Scalable Deployments**: Architected and deployed scalable Kubernetes clusters for microservices
+
 🌟 **Streamlined Pipelines**: Built secure CI/CD pipelines, reducing deployment time by 40% 
+
 🌟 **Cloud Migration**: Led successful migrations from on-prem to cloud with 99.9% uptime SLA  
 
 ---
