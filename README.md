@@ -30,15 +30,22 @@ Welcome to my GitHub! 🚀 I'm a **DevOps Engineer** with **4+ years of experien
 
 ## 🏆 Achievements  
 
-🌟 **Scalable Deployments**: Architected and deployed scalable Kubernetes clusters for microservices.  
-🌟 **Streamlined Pipelines**: Built secure CI/CD pipelines, reducing deployment time by 40%.  
-🌟 **Cloud Migration**: Led successful migrations from on-prem to cloud with 99.9% uptime SLA.  
+🌟 **Certifications**: 
+1. AWS Certified DevOps Engineer – Professional
+2. AWS Certified Developer – Associate
+3. AWS Certified Cloud Practitioner
+4. Docker Essentials: A Developer Introduction
+5. Containers & Kubernetes Essentials
+   
+🌟 **Scalable Deployments**: Architected and deployed scalable Kubernetes clusters for microservices 
+🌟 **Streamlined Pipelines**: Built secure CI/CD pipelines, reducing deployment time by 40% 
+🌟 **Cloud Migration**: Led successful migrations from on-prem to cloud with 99.9% uptime SLA  
 
 ---
 
 ## 📚 Featured Projects  
 
-🚀 **[VProfile_Project](https://github.com/ghosharijeet09/VProfile_Project.git)**: Setup a multi tier web application stack.
+🚀 **[VProfile_Project](https://github.com/ghosharijeet09/VProfile_Project.git)**: Setup a Multi-Tier Web Application Stack.
 
 🚀 **[Deploying_React_Application_by_using_DOCKER
 ](https://github.com/ghosharijeet09/Deploying_React_Application_by_using_DOCKER.git)**: Understanding Virtualization by installing Virtual Box and creating VM(Linux) for a React Application.  
