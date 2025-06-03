@@ -16,15 +16,17 @@ Welcome to my GitHub! 🚀 I'm a **DevOps Engineer** with **4+ years of experien
 ## 🛠️ My Tech Arsenal  
 
 ### ☁️ Cloud & DevOps  
-- **Cloud Platforms**: AWS, Azure  
-- **Containerization**: Docker 🐳, Kubernetes ☸️  
-- **IaC**: Terraform, CloudFormation  
-- **Monitoring**: Prometheus, Grafana, ELK Stack  
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI  
+
+- **Cloud Platforms**: ☁️ AWS, ☁️ Azure  
+- **Containerization**: 🐳 Docker, ☸️ Kubernetes  
+- **IaC (Infrastructure as Code)**: ⚙️ Terraform, 📜 CloudFormation  
+- **Monitoring**: 📊 Prometheus, 📈 Grafana, 🛠️ ELK Stack  
+- **CI/CD**: 🔄 Jenkins, 🤖 GitHub Actions, 🚀 GitLab CI    
 
 ### 📜 Scripting & Tools  
-- **Languages**: Python 🐍, Bash, YAML  
-- **Config Management**: Ansible, Chef, Puppet  
+
+- **Languages**: 🐍 Python, 💻 Bash, 📄 YAML  
+- **Config Management**: ⚙️ Ansible, 🍳 Chef, 🎭 Puppet    
 
 ---
 
