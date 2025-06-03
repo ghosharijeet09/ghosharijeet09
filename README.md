@@ -52,7 +52,7 @@ Welcome to my GitHub! 🚀 I'm a **DevOps Engineer** with **4+ years of experien
 🚀 **[VProfile_Project](https://github.com/ghosharijeet09/VProfile_Project.git)**: Setup a Multi-Tier Web Application Stack.
 
 🚀 **[Deploying_React_Application_by_using_DOCKER
-](https://github.com/ghosharijeet09/Deploying_React_Application_by_using_DOCKER.git)**: Understanding Virtualization by installing Virtual Box and creating VM(Linux) for a React Application.  
+](https://github.com/ghosharijeet09/Deploying_React_Application_by_using_DOCKER.git)**: Install VirtualBox, Create a Linux VM, and Deploy a React App.  
 
 ---
 
